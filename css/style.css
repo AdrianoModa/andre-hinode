@@ -1,0 +1,8 @@
+/* Global Style CSS */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, #85FFBD 0%, #FFFB7D 100%);
+    text-align: center;
+    color: #fff;
+}
